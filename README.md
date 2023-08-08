@@ -14,7 +14,7 @@
 ---
 
 ### Sobre mí
-Hola 👋, mi nombre es Ivan es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes, pero quería aprender más, quería llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendí mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
+Hola 👋, mi nombre es Ivan es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes.
 Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
 
 ---
