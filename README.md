@@ -88,6 +88,10 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="mysql" width="40" height="40"/>
+  </a>
+
 </p>
 
 ---
