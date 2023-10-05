@@ -89,7 +89,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="mysql" width="40" height="40"/>
+    <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png](https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png" alt="mysql" width="40" height="40"/>
   </a>
 
 </p>
