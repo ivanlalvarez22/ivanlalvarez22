@@ -4,7 +4,7 @@
 
 ---
 <!-- Comentario -->
-<h3 align="center">:computer:  Un apasionado desarrollador Full-Stack de Argentina  :computer:</h3>
+<h3 align="center">:computer:  A passionate Full-Stack developer from Argentina  :computer:</h3>
 
 ---
 
@@ -13,14 +13,13 @@
 
 ---
 
-### Sobre mí
-Hola 👋, mi nombre es Ivan es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes.
-Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
+### About me
+Hello 👋, my name is Iván. It's a pleasure to have you visit my profile. Feel free to hit the follow button ☺️. I work in Web Development. I initially learned while pursuing my Bachelor's degree in Information Systems at UNSE, where I built a strong foundation in Mathematics and Programming Logic. I learned languages such as Python, Java, MYSQL, and some Operating Systems with Linux. Later, I became self-taught, learning HTML5, CSS3, JS, and NodeJs. I also worked on projects using these languages. Currently, I'm studying Programming at ITSE, where I realized the importance of teamwork and learning from others. I still have much to discover, and I'm willing to give my all to do so, in order to make a living doing what I love and am passionate about.
 
 ---
 ---
 
-### Lenguages y Herramientas
+### Languages ​​and Tools
 
 <p align="left"> 
  <!-- <a href="#">
@@ -97,7 +96,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 ---
 ---
 
-# Contáctame
+# Contact me
 
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : <ivanlalvarez.22@gmail.com>
 
@@ -110,7 +109,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 
 ---
 ---
-# Más sobre mí
+# More about me
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlalvarez22&theme=blue-green)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanlalvarez22&label=Profile%20views&color=0e75b6&style=flat" alt="ivanlalvarez22" /> </p>
