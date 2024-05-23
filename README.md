@@ -14,7 +14,7 @@
 ---
 
 ### About me
-Greetings! My name is Iván, and I'm thrilled that you've taken the time to explore my profile. Feel free to hit the follow button ☺️. I work in Web Development. I initially learned while pursuing my Bachelor's degree in Information Systems at UNSE, where I built a strong foundation in Mathematics and Programming Logic. I learned languages such as Python, Java, MYSQL, and some Operating Systems with Linux. Later, I became self-taught, learning HTML5, CSS3, JS, and NodeJs. I also worked on projects using these languages. Currently, I'm studying Programming at ITSE, where I realized the importance of teamwork and learning from others. I still have much to discover, and I'm willing to give my all to do so, in order to make a living doing what I love and am passionate about.
+Hey there! I'm Iván, a fullstack web developer with a passion for coding. I started with an Information Systems degree, then, I got cozy with Python, Java, MYSQL, and Linux. In addition, I explored on my own, diving into HTML5, CSS3, JS, and NodeJs. Currently studying programming at ITSE, embracing teamwork while brushing up my skills. Lots to learn, but loving every bit of it! Hit that follow button and join the journey!
 
 ---
 ---
