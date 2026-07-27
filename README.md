@@ -1,6 +1,6 @@
-# Hi, I'm Iván Álvarez 👋
+# I'm Iván Alvarez
 
-**Software Engineer | Python Developer | Cybersecurity Specialist**
+**Software Engineer | Cybersecurity Specialist**
 
 I build secure backend systems, cloud infrastructure, data pipelines, large-scale web scraping solutions, and SaaS products. My work focuses on **Python, cybersecurity, automation, cloud engineering, and data engineering**.
 
@@ -37,11 +37,14 @@ I build secure backend systems, cloud infrastructure, data pipelines, large-scal
 
 ### Backend
 
-- FastAPI
+- Python
 - Django
 - Flask
 - Node.js
 - Express
+- REST APIs
+- Web Scraping
+- ETL Pipelines
 
 ### Databases
 
@@ -63,7 +66,6 @@ I build secure backend systems, cloud infrastructure, data pipelines, large-scal
 - Vercel
 - VPS Administration
 - Reverse Proxy
-- REST APIs
 
 ### Cybersecurity
 
@@ -94,10 +96,9 @@ Cloud POS & ERP platform for retail businesses.
 
 ### 📈 [Infoprecios](https://infoprecios.vercel.app/)
 
-Real-time pricing intelligence platform powered by AI and distributed scraping.
+Real-time pricing intelligence platform powered by distributed scraping.
 
 - Large-scale Web Scraping
-- AI-powered Monitoring
 - Automation APIs
 - ETL Pipelines
 - Market Intelligence
@@ -131,11 +132,10 @@ Loan management platform built with Django.
 
 ## 🎓 Certifications
 
-- 🛡️ Certified Web Security Expert (CWSE)
-- 🔐 Certified Associate Penetration Tester (CAPT)
-- ⚔️ Ethical Hacking Professional Certification (CEHPC™)
-- 👨‍💻 Pentester Mentor Junior (PMJ)
-- 🎓 Cybersecurity Technician
+- 🛡️ [Certified Web Security Expert (CWSE)](https://storage.hackviser.com/file/hackviser-prod/certificates/1f99a156b5ec4d6684b16bb0d49c6253.webp)
+- 🔐 [Certified Associate Penetration Tester (CAPT)](https://storage.hackviser.com/file/hackviser-prod/certificates/26a7b2800ea44bfaaa4b857588139967.webp)
+- ⚔️ [Ethical Hacking Professional Certification (CEHPC™)](https://www.credly.com/badges/8d63a8cf-0d22-47a1-90d6-583eb31fcfe0)
+- 👨‍💻 [Pentester Mentor Junior (PMJ)](https://app.kajabi.com/certificates/877dc7dc)
 
 ---
 
