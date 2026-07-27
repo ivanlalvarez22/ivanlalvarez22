@@ -1,4 +1,4 @@
-# I'm Iván Alvarez
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c237e7a0-5fee-4505-a000-3035a4d1b5ec" /># I'm Iván Alvarez
 
 **Software Engineer | Cybersecurity Specialist**
 
@@ -8,9 +8,9 @@ I build secure backend systems, cloud infrastructure, data pipelines, large-scal
 
 ## 🚀 Current
 
-- 🚀 Co-Founder @ [**Estero Software**](https://esterosoft.vercel.app/)
-- 🏪 Building [**TiendaPro**](https://tiendapro.net.ar/), a cloud POS & ERP platform for retail businesses
-- 📊 Building [**Infoprecios**](https://infoprecios.com.ar/), a real-time pricing intelligence platform powered by AI and distributed scraping
+- 🚀 Co-Founder @ [**Estero Software**](https://esterosoft.vercel.app/) ☀️
+- 🏪 Building [**TiendaPro**](https://tiendapro.net.ar/) 🏪, a cloud POS & ERP platform for retail businesses
+- 📊 Building [**Infoprecios**](https://infoprecios.com.ar/) 🏷️, a real-time pricing intelligence platform powered by AI and distributed scraping
 
 ---
 
