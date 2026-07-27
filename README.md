@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c237e7a0-5fee-4505-a000-3035a4d1b5ec" /># I'm Iván Alvarez
+# I'm Iván Alvarez 😊
 
 **Software Engineer | Cybersecurity Specialist**
 
