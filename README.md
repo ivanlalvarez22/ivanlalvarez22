@@ -8,9 +8,9 @@ I build secure backend systems, cloud infrastructure, data pipelines, large-scal
 
 ## 🚀 Current
 
-- 🚀 Co-Founder @ **Estero Software**
-- 🏪 Building **TiendaPro**, a cloud POS & ERP platform for retail businesses
-- 📊 Building **Infoprecios**, a real-time pricing intelligence platform powered by AI and distributed scraping
+- 🚀 Co-Founder @ [**Estero Software**](https://esterosoft.vercel.app/)
+- 🏪 Building [**TiendaPro**](https://tiendapro.net.ar/), a cloud POS & ERP platform for retail businesses
+- 📊 Building [**Infoprecios**](https://infoprecios.com.ar/), a real-time pricing intelligence platform powered by AI and distributed scraping
 
 ---
 
@@ -94,7 +94,7 @@ Cloud POS & ERP platform for retail businesses.
 
 ---
 
-### 📈 [Infoprecios](https://infoprecios.vercel.app/)
+### 📈 [Infoprecios](https://infoprecios.com.ar/)
 
 Real-time pricing intelligence platform powered by distributed scraping.
 
