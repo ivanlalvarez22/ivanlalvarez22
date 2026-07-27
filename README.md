@@ -1,4 +1,4 @@
-# I'm Iván Alvarez 😊
+# I'm Iván Alvarez
 
 **Software Engineer | Cybersecurity Specialist**
 
